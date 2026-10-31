@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CINEMA</title>
+    <style>
+        body {
+            background-color: rgb(206, 240, 228);
+            position: relative;
+            margin: 0;
+            height: 100vh;
+        }
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 20px;
+        }
+        p {
+            margin-bottom: 15px;
+            color: rgb(3, 3, 80);
+        }
+        .imagem-centro {
+            display: block;
+            margin-left: auto;
+            width: 20%;
+        }
+         .imagem-centro {
+            border: 15px;
+            color: black;
+        }
+        .imagem-cavalo {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 30%;
+        }
+        h1,h2,h3{
+            text-align: center;
+            color: blue;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>História do cinema</h1>
+    <figure>
+        <img src="../proj02- cinema/img02.PNG" class="imagem-centro" >
+    </figure>
+
+    <P>Cinema (do grego: <i>κίνημα</i> ; "movimento", e <i>γράφειν</i>, graphein; "registrar"), conhecido também como <strong> Sétima Arte</strong> e, em alguns contextos, cinematografia, é um termo que pode ser definido como a técnica e a arte que reproduz fotogramas de forma rápida e sequencial, criando <i>"ilusão de movimento"</i>,bem como a indústria que produz essas imagens. O termo "cinema" também é comumente utilizado para designar a sala onde são projetados esses filmes.</P>
+    
+    <blockquote>Segundo o Dicionário Aurélio, a palavra cinema possui os seguintes significados principais: <br>
+    • Arte de compor e realizar filmes cinematográficos (a criação e produção de obras para as telas). <br>
+    • Cinematografia (o conjunto de técnicas, processos e a indústria de criação de filmes). <br>
+    • Projeção cinematográfica (o ato ou o espetáculo de exibir imagens em movimento). <br>
+    • Sala de espetáculos (o local físico, edifício ou ambiente onde os filmes são projetados para o público).
+    </blockquote>
+
+    <h3>Breve história do cinema</h3> <br>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KV9JqZPo26Y?si=ifmRNCO6e6GR0n7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe> <br>
+
+    <h2>Os filmes</h2>
+
+    <p>Os filmes são assim constituídos por uma série de imagens impressas em determinado suporte, alinhadas em sequência, chamadas fotogramas. Quando essas imagens são projetadas de forma rápida e sucessiva, o espectador tem a ilusão de observar movimento. A cintilação entre os fotogramas não é percebida devido a um efeito conhecido como persistência da visão: o olho humano retém uma imagem durante uma fração de segundo após a sua fonte ter saído do campo da visão. O espectador tem assim a ilusão de movimento, devido a um efeito psicológico chamado movimento beta.  </p>
+
+    <h3>Sequência de um cavalo a galopar (1887), feita por <a href="https://pt.wikipedia.org/wiki/Eadweard_Muybridge" target="_blank"> Eadweard Muybridge </a></h3> <br>
+    
+    <figure>
+        <img src="../proj02- cinema/Muybridge_race_horse_animated.gif" class="imagem-cavalo">
+    </figure>
+    
+    <h2>Equipe</h2>
+    <figure>
+        <img src="../proj02- cinema/FMPU_camera_crew_1944.jpg" alt="">
+        <figcaption>Uma equipe de câmera da First Motion Picture Unit</figcaption>
+    </figure>
+
+        <Ul>Por ordem decrescente de antiguidade, estão envolvidos os seguintes funcionários:
+		    <li>Diretor de fotografia</li>
+            <li>Operador de câmera, também chamado de cinegrafista</li>
+            <li>Primeiro câmera assistente</li>
+            <li>Segundo câmera assistente</li>
+        </Ul>
+    
+    <h2>Cinematografia</h2> <br>
+
+    Ver artigo principal: 
+    <a href="https://pt.wikipedia.org/wiki/Pel%C3%ADcula_cinematogr%C3%A1fica" target="_blank">Pelicula cinematografia</a>
+    <br>
+
+    <p>O cinema existe graças à invenção do cinematógrafo, inventado pelos <i> Irmãos Lumière</i> no fim do século XIX. Em 28 de dezembro de 1895, na cave do Grand Café, em Paris, os dois engenhosos irmãos realizaram a primeira exibição pública e paga da arte do cinema: uma série de dez filmes, com duração de 40 a 50 segundos cada (os primeiros rolos de película tinham apenas quinze metros de comprimento). Os filmes até hoje mais conhecidos desta primeira sessão chamavam-se "A saída dos operários da Fábrica Lumière" e "A chegada do trem à Estação Ciotat", cujos títulos exprimem bem o seu conteúdo.</p> <br>
+    <figure>
+        <img src="../proj02- cinema/irmaos lumiere.PNG" alt="">
+        <figcaption>Irmãos Lumiere</figcaption>
+    </figure>
+
+    <p> Apesar de também existirem notícias de projeções um pouco anteriores, de outros inventores (como os irmãos Max e Emil Skladanowsky na Alemanha), a sessão dos Lumière é aceita pela grande maioria da literatura cinematográfica como o marco inicial da nova arte. O cinema expandiu-se a partir de então pela França, por toda a Europa e Estados Unidos, por intermédio de cinegrafistas enviados pelos irmãos Lumière para captar imagens pelo mundo afora.</p>
+    <br>
+</body>
+</html>
